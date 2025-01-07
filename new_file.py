@@ -1,5 +1,5 @@
 print("Mone, ninnod njan paranjathalle jeeviche pattu nnu?")
-print("Pakshe nee ennum ingane aavum. Oru maatatavumilla.")
+print("Pakshe nee ennum ingane aavum. Oru maattavumilla.")
 print("Ennanu anthyamennu enikkariyilla.")
 num = int(input("Akkam thaada: "))
 print(num)
