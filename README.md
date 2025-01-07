@@ -1,2 +1,2 @@
 # learning_exercise-repo
-This is Arun's attempt to learn Git and Github.
+Readme file associated with first steps on Git and Github.
